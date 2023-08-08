@@ -17,7 +17,7 @@ function App() {
       <HelloFunctional></HelloFunctional>
       <HelloFunctional></HelloFunctional>
       <HelloFunctional/>
-      <HelloClass name="Sid" age="16"/>
+      <HelloClass name="Siddhant" age="16"/>
       <HelloClass name="Sam" age="27"/>
       {/* <HelloES6/> */}
       <HelloFunctionalES6/>
