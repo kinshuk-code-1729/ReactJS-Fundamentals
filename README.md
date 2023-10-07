@@ -2,7 +2,6 @@
 
 ![image](https://github.com/kinshuk-code-1729/ReactJS-Fundamentals/assets/90320839/353b4bba-332d-412e-957b-f0dee3309679)
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
